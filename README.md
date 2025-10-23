@@ -1,9 +1,9 @@
 # Your Project's Title...
-Your project's description...
+This is EDS site of WKND - Tutorial
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--wknd-site-eds--shiksha-shra01.aem.page/
+- Live: https://main--wknd-site-eds--shiksha-shra01.aem.live/
 
 ## Documentation
 
